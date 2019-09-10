@@ -1,2 +1,2 @@
 # corporation-helper
-Usefull tools to manage corporation things :)
+Useful tools to manage corporation things :)
